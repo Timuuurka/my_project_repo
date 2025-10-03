@@ -1,1 +1,1 @@
-README for my_project
+My Project
